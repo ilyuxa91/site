@@ -1,0 +1,19 @@
+body {
+  font-size: 20px;
+  margin: 0;
+}
+
+.pervyi {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+}
+
+.red {
+  color: red;
+}
+
+.image {
+  width: auto;
+  max-width: 100%;
+}
